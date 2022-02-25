@@ -1,0 +1,4 @@
+La suma es: 21
+La suma es: 666
+La suma es: 36
+La suma es: 3

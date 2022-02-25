@@ -1,0 +1,3 @@
+EL triangulo es de tipo Escaleno
+EL triangulo es de tipo Isósceles
+EL triangulo es de tipo Equilátero

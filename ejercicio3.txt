@@ -1,0 +1,5 @@
+La palabra hola tiene 2 vocales
+La palabra mundo tiene 2 vocales
+La palabra me  tiene 1 vocales
+La palabra llamo tiene 2 vocales
+La palabra diego tiene 3 vocales

@@ -1,0 +1,4 @@
+Circulo con area: 50.26548245743669
+Triangulo con area: 10.0
+Cuadrado con area: 36.0
+Rectangulo con area: 32.0

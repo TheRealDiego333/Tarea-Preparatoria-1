@@ -1,0 +1,5 @@
+La suma de los tres numeros es: 6
+La multiplicacion de los tres numeros es: 6
+Los numeros concatenados son: 123
+El numero que no se repite: 2
+Todos son iguales

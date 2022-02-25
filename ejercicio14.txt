@@ -1,0 +1,6 @@
+2020 Es bisiesto
+2021 No es bisiesto
+2022 No es bisiesto
+2023 No es bisiesto
+2024 Es bisiesto
+2025 No es bisiesto

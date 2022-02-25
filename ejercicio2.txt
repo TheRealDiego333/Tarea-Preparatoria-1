@@ -1,0 +1,13 @@
+Divisores de 5 son: 1
+Divisores de 5 son: 5
+Divisores de 8 son: 1
+Divisores de 8 son: 2
+Divisores de 8 son: 4
+Divisores de 8 son: 8
+Divisores de 6 son: 1
+Divisores de 6 son: 2
+Divisores de 6 son: 3
+Divisores de 6 son: 6
+Divisores de 9 son: 1
+Divisores de 9 son: 3
+Divisores de 9 son: 9

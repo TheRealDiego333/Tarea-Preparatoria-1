@@ -1,0 +1,47 @@
+import numpy as np
+import sys
+import os
+import psycopg2
+print("Ejercicio #9")
+conexion = psycopg2.connect(
+        host = "localhost",
+        port = "5432",
+        user = "postgres",
+        password = "lin_$$33",
+        dbname = "Proyectos"
+)
+
+SQL = "SELECT * FROM ejercicio9;"
+INSERT = "INSERT INTO ejercicio9(iteraciones) VALUES(%s);"
+
+while(True):
+
+	print("Numeros de 2 en 2")
+	try:
+		inicio = int(input("Ingrese número de inicio: "))
+		fin = int(input("Ingrese número donde terminar: "))
+		ini = "INICIO"
+		cursor = conexion.cursor()
+
+		cursor.execute(INSERT,(ini))
+		cursor.execut		conexion.commit()
+
+
+	except ValueError:
+		print("Debe ingresar un número, no cualquier otro caracter")
+
+	for i in range (inicio,fin,2):
+		print (i)
+#		cursor = conexion.cursor()
+#		cursor.execute(INSERT,(i)
+#		conexion.commit()
+
+
+#	while(inicio <= fin):
+#		print(" "+ str(inicio) +" ", end = ' ')
+#		inicio+=2;
+#	print()
+#	cursor = conexion.cursor()
+#	cursor.execute (INSERT,(inicio,fin,))
+#	conexion.commit()
+
